@@ -94,15 +94,7 @@
 	</nav>
 
 	<header id="fh5co-header" class="fh5co-cover" role="banner" style="background-image:url(images/sid.jpg);" data-stellar-background-ratio="0.5">
-		<style>
-			@media screen and (max-width: 768px){
-			header#fh5co-header {
-   			 background-image: url(images/sid.jpg);
-    			background-position: -59px 0px;
-			}
-			}
-			
-		</style>
+		
 		<div class="overlay"></div>
 		<div class="container">
 			<div class="row">
