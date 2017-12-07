@@ -100,7 +100,7 @@
 				<div class="col-md-8 col-md-offset-2 text-center">
 					<div class="display-t">
 						<div class="display-tc animate-box" data-animate-effect="fadeIn">
-							<h1>Siddharth &amp; Jigisha</h1>
+							<h1>Siddharths &amp; Jigisha</h1>
 							<h2>We Are Getting Married</h2>
 							<div class="simply-countdown simply-countdown-one"></div>
 							<p><a href="#" class="btn btn-default btn-sm">Save the date</a></p>
