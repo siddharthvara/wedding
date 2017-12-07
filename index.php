@@ -100,9 +100,9 @@
 				<div class="col-md-8 col-md-offset-2 text-center">
 					<div class="display-t">
 						<div class="display-tc animate-box" data-animate-effect="fadeIn">
-							<h1>Siddharths &amp; Jigisha</h1>
-							<h2>We Are Getting Married</h2>
-							<div class="simply-countdown simply-countdown-one"></div>
+							<h1>Siddharth &amp; Jigisha</h1>
+							<h2>We Are Getting Engagement</h2>
+							<!-- <div class="simply-countdown simply-countdown-one"></div> -->
 							<p><a href="#" class="btn btn-default btn-sm">Save the date</a></p>
 						</div>
 					</div>
@@ -116,8 +116,8 @@
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
 					<h2>Hello!</h2>
-					<h3>November 28th, 2016 New York, USA</h3>
-					<p>We invited you to celebrate our wedding</p>
+					<h3>November 28th, 2016 Jamnagar, Gujarat</h3>
+					<p>We invited you to celebrate our Engagement</p>
 				</div>
 			</div>
 			<div class="couple-wrap animate-box">
@@ -126,7 +126,7 @@
 						<img src="images/groom.jpg" alt="groom" class="img-responsive">
 					</div>
 					<div class="desc-groom">
-						<h3>Joefrey Mahusay</h3>
+						<h3>Siddharth Vara</h3>
 						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove</p>
 					</div>
 				</div>
@@ -136,7 +136,7 @@
 						<img src="images/bride.jpg" alt="groom" class="img-responsive">
 					</div>
 					<div class="desc-bride">
-						<h3>Sheila Mahusay</h3>
+						<h3>Jigisha daudiya</h3>
 						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove</p>
 					</div>
 				</div>
